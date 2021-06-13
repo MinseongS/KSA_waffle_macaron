@@ -31,4 +31,4 @@
 #####    - 김태현:
 #####    - 신민성: 데이터 전처리, SGDClassifier, 평균 이미지 확인 및 비교, SGDClassifier를 이용한 이미지 분석
 #####    - 이도형: DecisionTreeClassifier, graphviz를 이용한 DecisionTreeClassifier 의사결정 확인 , 앙상블 학습으로 Hard voting 활용
-#####    - 강형준: 데이터 RGB 성분 분석, SVM의 다양한 커널(rbf, sigmoid, poly)로 모델 학습, RandomForestRegressor 및 GridSearch를 통한 분석
+#####    - 강형준: 데이터 RGB 성분 분석, SVM의 다양한 커널(rbf, sigmoid, poly)로 학습, RandomForestRegressor 및 GridSearch를 통한 분석
